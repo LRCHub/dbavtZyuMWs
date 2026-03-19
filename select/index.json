@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "変わり瞳",
+  "base_artist": "4na",
+  "createdAt": "2026-03-19T22:00:12.615105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "変わり瞳",
+      "artist": "4na",
+      "has_synced": false,
+      "path": "select/01_変わり瞳_4na.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "変わり瞳",
+      "artist": "4na",
+      "has_synced": false,
+      "path": "select/localdb_01_変わり瞳_4na.txt",
+      "repo_name": "XLxVfQX8n-k"
+    }
+  ]
+}
